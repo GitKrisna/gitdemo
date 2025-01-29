@@ -11,3 +11,6 @@ def substract(a,b):
 # def division(a,b):
 #     return a/b
 # print("Incomplete function")
+
+
+print("nsknsknks")
