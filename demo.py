@@ -6,11 +6,11 @@ print("2nd demo on git")
 #     return a+b
 def substract(a,b):
     return a-b
-# def multiply(a,b):
-#     return a*b
-# def division(a,b):
-#     return a/b
+def multiply(a,b):
+    return a*b
+def division(a,b):
+    return a/b
 # print("Incomplete function")
 
 
-print("nsknsknks")
+# print("nsknsknks")
