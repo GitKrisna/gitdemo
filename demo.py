@@ -4,3 +4,5 @@ def add():
     a = 5
     b = 10
     return a+b
+def substract(a,b):
+    return a-b
