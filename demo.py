@@ -11,6 +11,7 @@ def multiply(a,b):
 def division(a,b):
     return a/b
 print("Incomplete function")
+print("complete function")
 
 
 # print("nsknsknks")
