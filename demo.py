@@ -12,6 +12,10 @@ def division(a,b):
     return a/b
 print("Incomplete function")
 print("complete function")
+print("future updates")
+# print("kkkk")
+print("complete function")
 
 
 # print("nsknsknks")
+# print("checking stash")
